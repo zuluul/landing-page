@@ -32,7 +32,7 @@
             <div class="card-body">
                 <h5 class="card-title">SISALSA</h5>
                 <p class="card-text">Sistem Informasi Salur Dana Desa</p>
-                <a href="http://103.81.246.152/" class="btn btn-primary" target="_blank">Kunjungi Situs</a>
+                <a href="https://sisalsa-cianjurkab.smartvillage.info/" class="btn btn-primary" target="_blank">Kunjungi Situs</a>
             </div>
         </div>
     </div>
@@ -42,7 +42,7 @@
             <div class="card-body">
                 <h5 class="card-title">SITANTI</h5>
                 <p class="card-text">Sistem Informasi Transaksi Non Tunai</p>
-                <a href="http://103.81.246.153/" class="btn btn-primary" target="_blank">Kunjungi Situs</a>
+                <a href="https://sitanti-cianjurkab.smartvillage.info/" class="btn btn-primary" target="_blank">Kunjungi Situs</a>
             </div>
         </div>
     </div>
@@ -52,11 +52,34 @@
             <div class="card-body">
                 <h5 class="card-title">EIS</h5>
                 <p class="card-text">Excecutive Information System</p>
-                <a href="#" class="btn btn-primary" target="_blank">Kunjungi Situs</a>
+                <a href="http://eis-cianjurkab.smartvillage.info/" class="btn btn-primary" target="_blank">Kunjungi Situs</a>
             </div>
         </div>
     </div>
   </div>
+  <div class="row">
+      <div class="col-lg-3">
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="img/ibc.png" alt="Card image cap" width="200" height="100">
+            <div class="card-body">
+                <h5 class="card-title">IBC-BJB</h5>
+                <p class="card-text">Internet Bank Corporate</p>
+                <a href="https://bjbcorp.bankbjb.co.id/corporate/" class="btn btn-primary" target="_blank">Kunjungi Situs</a>
+            </div>
+        </div>
+      </div>
+      <div class="col-lg-3">
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="img/djp.png" alt="Card image cap" width="200" height="100">
+            <div class="card-body">
+                <h5 class="card-title">DJP Online</h5>
+                <p class="card-text">Direktorat Jenderal Pajak Online</p>
+                <a href="https://djponline.pajak.go.id/account/login" class="btn btn-primary" target="_blank">Kunjungi Situs</a>
+            </div>
+        </div>
+      </div>
+  </div>
+
 </div>
 
 </body>
