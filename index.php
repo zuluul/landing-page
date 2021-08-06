@@ -11,6 +11,7 @@
 <body>
 
 <div class="jumbotron text-center">
+  <h2>TEMAN KEUD354</h2>
   <h3>Sistem Pengelolaan Keuangan Desa Terintegrasi</h3>
 </div>
   
