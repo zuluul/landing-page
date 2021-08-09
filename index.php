@@ -52,7 +52,7 @@
         </div>
         <div class="break"></div>
         <div class="footer">
-            Copyright &copy; 2021 PT. LAWANG SEWU TEKNOLOGI
+            Developed by PT. LAWANG SEWU TEKNOLOGI 2021
         </div> 
     </main>
 </body>
