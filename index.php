@@ -19,7 +19,7 @@
                 <a class="button" href="https://siskeudes-cianjurkab.simdacloud.id/" target="_blank">Kunjungi Situs</a>
             </div>
             <div class="card-inside">
-                <img src="assets/img/sisalsa.svg" width="200px" height="100px"><br>
+                <img src="assets/img/sisalsa.png" width="200px" height="100px"><br>
                 Sistem Informasi Salur Dana Desa<br><br>
                 <a class="button" href="https://sisalsa-cianjurkab.smartvillage.info/" target="_blank">Kunjungi Situs</a>                
             </div>
